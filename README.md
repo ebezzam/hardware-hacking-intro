@@ -1,5 +1,7 @@
 # Intro to Hardware Hacking
 
+Intro to using Raspberry Pi and Arduino for hardware prototyping.
+
 Workshop given at EPFL on March 24, 2022.
 
 [SLIDES](https://docs.google.com/presentation/d/1P4vhhdcdITcT4_eVu4LdMFMZ-mieSCoPgvOrXiX5On4/edit?usp=sharing)
