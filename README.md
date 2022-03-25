@@ -1,10 +1,9 @@
-# Intro to Hardware Hacking
+# Intro to Hardware Hacking, [SLIDES](https://docs.google.com/presentation/d/1P4vhhdcdITcT4_eVu4LdMFMZ-mieSCoPgvOrXiX5On4/edit?usp=sharing)
 
 Intro to using Raspberry Pi and Arduino for hardware prototyping.
 
 Workshop given at EPFL on March 24, 2022.
 
-[SLIDES](https://docs.google.com/presentation/d/1P4vhhdcdITcT4_eVu4LdMFMZ-mieSCoPgvOrXiX5On4/edit?usp=sharing)
 - [Flashing SD card with Raspberry Pi imager](https://docs.google.com/presentation/d/1P4vhhdcdITcT4_eVu4LdMFMZ-mieSCoPgvOrXiX5On4/edit#slide=id.g11eac8bde6b_0_362).
    - [Setting WiFI through `wpa_supplicant.conf`](https://docs.google.com/presentation/d/1P4vhhdcdITcT4_eVu4LdMFMZ-mieSCoPgvOrXiX5On4/edit#slide=id.g11eac8bde6b_0_417).
 - [Connecting without a monitor (headless)](https://docs.google.com/presentation/d/1P4vhhdcdITcT4_eVu4LdMFMZ-mieSCoPgvOrXiX5On4/edit#slide=id.g11eac8bde6b_0_383).
